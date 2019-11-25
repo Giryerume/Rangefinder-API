@@ -1,1 +1,1 @@
-# Rangefinder-API
+# Rangefinder API
